@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<indexedmzML xmlns="http://psi.hupo.org/ms/mzml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://psi.hupo.org/ms/mzml http://psidev.info/files/ms/mzML/xsd/mzML1.1.2_idx.xsd">
+  <mzML xmlns="http://psi.hupo.org/ms/mzml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://psi.hupo.org/ms/mzml http://psidev.info/files/ms/mzML/xsd/mzML1.1.0.xsd" id="" version="1.1.0">
+    <cvList count="2">
+      <cv id="MS" fullName="Proteomics Standards Initiative Mass Spectrometry Ontology" version="4.1.2" URI="http://psidev.cvs.sourceforge.net/*checkout*/psidev/psi/psi-ms/mzML/controlledVocabulary/psi-ms.obo"/>
+      <cv id="UO" fullName="Unit Ontology" version="12:10:2011" URI="http://obo.cvs.sourceforge.net/*checkout*/obo/obo/ontology/phenotype/unit.obo"/>
+    </cvList>
+    <fileDescription>
+      <fileContent>
+        <cvParam cvRef="MS" accession="MS:1000579" name="MS1 spectrum" value=""/>
+      </fileContent>
+    </fileDescription>
+    <softwareList count="1">
+      <software id="mzR" version="2.20.0">
+        <cvParam cvRef="MS" accession="MS:1002869" name="mzR" value=""/>
+      </software>
+    </softwareList>
+    <instrumentConfigurationList count="1">
+      <instrumentConfiguration id="IC">
+        <cvParam cvRef="MS" accession="MS:1000031" name="instrument model" value=""/>
+      </instrumentConfiguration>
+    </instrumentConfigurationList>
+    <dataProcessingList count="1">
+      <dataProcessing id="mzR_processing">
+        <processingMethod order="1" softwareRef="mzR">
+          <cvParam cvRef="MS" accession="MS:1000544" name="Conversion to mzML" value=""/>
+        </processingMethod>
+      </dataProcessing>
+    </dataProcessingList>
+    <run id="Experiment_1" defaultInstrumentConfigurationRef="IC">
+      <spectrumList count="1" defaultDataProcessingRef="mzR_processing">
+        <spectrum index="0" id="scan=1" defaultArrayLength="228">
+          <cvParam cvRef="MS" accession="MS:1000511" name="ms level" value="1"/>
+          <cvParam cvRef="MS" accession="MS:1000579" name="MS1 spectrum" value=""/>
+          <cvParam cvRef="MS" accession="MS:1000528" name="lowest observed m/z" value="-1.0" unitCvRef="MS" unitAccession="MS:1000040" unitName="m/z"/>
+          <cvParam cvRef="MS" accession="MS:1000527" name="highest observed m/z" value="-1.0" unitCvRef="MS" unitAccession="MS:1000040" unitName="m/z"/>
+          <cvParam cvRef="MS" accession="MS:1000504" name="base peak m/z" value="-1.0" unitCvRef="MS" unitAccession="MS:1000040" unitName="m/z"/>
+          <cvParam cvRef="MS" accession="MS:1000505" name="base peak intensity" value="-1.0" unitCvRef="MS" unitAccession="MS:1000131" unitName="number of detector counts"/>
+          <cvParam cvRef="MS" accession="MS:1000285" name="total ion current" value="1.0e07"/>
+          <scanList count="1">
+            <cvParam cvRef="MS" accession="MS:1000795" name="no combination" value=""/>
+            <scan>
+              <cvParam cvRef="MS" accession="MS:1000016" name="scan start time" value="607.959" unitCvRef="UO" unitAccession="UO:0000010" unitName="second"/>
+              <cvParam cvRef="MS" accession="MS:1000512" name="filter string" value=""/>
+              <cvParam cvRef="MS" accession="MS:1002476" name="ion mobility drift time" value="-1.0" unitCvRef="UO" unitAccession="UO:0000028" unitName="millisecond"/>
+              <scanWindowList count="1">
+                <scanWindow>
+                  <cvParam cvRef="MS" accession="MS:1000501" name="scan window lower limit" value="0.0" unitCvRef="MS" unitAccession="MS:1000040" unitName="m/z"/>
+                  <cvParam cvRef="MS" accession="MS:1000500" name="scan window upper limit" value="0.0" unitCvRef="MS" unitAccession="MS:1000040" unitName="m/z"/>
+                </scanWindow>
+              </scanWindowList>
+            </scan>
+          </scanList>
+          <binaryDataArrayList count="2">
+            <binaryDataArray encodedLength="476">
+              <cvParam cvRef="MS" accession="MS:1000523" name="64-bit float" value=""/>
+              <cvParam cvRef="MS" accession="MS:1000574" name="zlib compression" value=""/>
+              <cvParam cvRef="MS" accession="MS:1000514" name="m/z array" value="" unitCvRef="MS" unitAccession="MS:1000040" unitName="m/z"/>
+              <binary>eJw1ztlxVEEMBVCF4BAmhAmhf8EsA5h9azD7OuwUUJScASF0CA5BITiEDmFCgOKd6Z9T0n23niL+vTzX4v87v5iMQzPjgplx0cy4ZGZcNjM2i43JYlyRM1mMq3Imi3FNzmQxjuRMFuO6nMli3JAzWYybciaLcUvOZDFuy5ksxh05k8W4K2eyGPfkTBbjvpzJ2u8f2LMYD+VMFqMvrtjYmRwsTsYjfTZ2JgeLk/FYn42dycHiZBzrs7FzsDgZT/TYmRwsTsZTPTZ2JgeL8UyPjZ3JweLc957rsTM5OBkv9NjYmRycjJd6bOxMDhbjlR4bO5ODxcl4rc/O3M9vzCxOrt76jsnByXjnPnYmB2ufv5fzYLu4YeeWk/HB91xxzc5TFnf73kc9/uFg8YyTO8YnPQ6ecvPZHdwyufriXm645eD86n/f7Ln+vti44/qHPfOn+Zd7ePZbj5mLByfuO2l/AYo073w=</binary>
+            </binaryDataArray>
+            <binaryDataArray encodedLength="1036">
+              <cvParam cvRef="MS" accession="MS:1000523" name="64-bit float" value=""/>
+              <cvParam cvRef="MS" accession="MS:1000574" name="zlib compression" value=""/>
+              <cvParam cvRef="MS" accession="MS:1000515" name="intensity array" value="" unitCvRef="MS" unitAccession="MS:1000131" unitName="number of detector counts"/>
+              <binary>eJxVlFlIVFEYx08QYeaDD5kSCrcItAIRQqHSnDLLCGo022yq6zSVlU2DmZpF3ErQNhkGTdGSq5ZokE3k0kZey8i20bJF6KHJhYyitA0jyPL8//PQffnxP+c733a+e4T499krTeMQqS5Jvb0HevSV5IawaYvH2WkZhvafLLWp+aHUTz5NkFokNuNc5GXQ4QDrNdDYCQ5cBYMvSDo9g9AjLyWVR1OkPy1zAPn8+Ib92puwXyjtNfVdvLT7vjoI8Uefwy79GrisXFJ764G+jriO0n6slz+TtHmQv9M6IrX74HvY/2qVcWbnxsB/wZhcN3Xcw75+DCyso84Dex6A4Y3w96ZP0nB1If7vP9Dz0U+tCH3UniLvpuiJqD+AeRdVgcpmsPc06MhGPv13oWMqoBNfwN/rdkk1c0hSGeuG3dAt0FUDO8tH0I7+i+pqMGov6HcC/MC6846CgR1gWIukXoZ5EfvZ/8iLYOcpyalBk2RdurWP8etZF+ck8Aio2pFPngEdgXq1DM5XwxVw1X2whPNUVQbmoA9G40wZz0j5jPN1TYyXTfK+1E3YH6T/3gJQY92mA+AN1nW7BMwulDRXYn60ii7anyXN5Fb4D2aeSYWsi37r2kD2TSvqhJ6DOoQ3S9L5dYhxca8i9gwoEpjvAjBNB+vZV30L91eALQ2gxQl2bwM9AnN+HvMjTnLuzFmMk4z8FrmhE3i/aaWMkw7mu2jPPotdkjXhofC/9AvWM1vBjFzWmU/7FNDJ+dOiacc8pvP+L9VKRuzxx1zN8ErtLf6J/bjHYCzft9DjoN8h+t/BePR/h/0wcd9Yy/graTeLnMv9VOrheOjd0Dr8hrQhLxHA98Y3p+4cnmedBu9PTWZ8UuH8qFbGEdR8B9y8N8F7V9aQ+5gH973W/7XGvL0+vZF+5lHbyCgyFoyiH43vuLIdPMf/TvH9N+tZh5305cl+Kz7/SVwPIX395Lwq7KetGDTTn4jn+eWsg3UHMi9NJTn/h/m/eX3ztIR+4kCD/VYZ31jHvG2mv4ivM7Y=</binary>
+            </binaryDataArray>
+          </binaryDataArrayList>
+        </spectrum>
+      </spectrumList>
+    </run>
+  </mzML>
+  <indexList count="1">
+    <index name="spectrum">
+      <offset idRef="scan=1">1905</offset>
+    </index>
+  </indexList>
+  <indexListOffset>6452</indexListOffset>
+  <fileChecksum>e0773bf99124bfe4e6a3e07a7689d30856bee449</fileChecksum>
+</indexedmzML>

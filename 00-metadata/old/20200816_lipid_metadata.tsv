@@ -1,0 +1,158 @@
+sid	eid	sp	tissue	depth_col	temp_col
+V3994-D7	JWL0001	Horm_cali	whole	268.0	8.07
+D914-T1	JWL0002	Horm_cali	whole	200.0	8.76
+D919-D11	JWL0003	Horm_cali	whole	215.0	8.16
+D914-BW1	JWL0004	Bero_cucu	whole	10.0	12.20
+D914-BW1	JWL0005	Bero_cucu	whole	10.0	12.20
+D914-D5	JWL0006	Cydi_redx	whole	630.0	5.39
+V3994-D3	JWL0007	Cydi_redx	whole	870.0	4.46
+D918-D12	JWL0008	Verm_loba	whole	696.0	4.97
+V3976-SS2	JWL0009	Verm_loba	whole	981.0	3.95
+D1021-BT Tjal 3	JWL0010	Tjal_pink	whole	3950.0	2.00
+D1021-BT Tjal 5	JWL0011	Tjal_pink	whole	3950.0	2.00
+SEB180630-1	JWL0012	Mert_ovum	whole	100.0	4.00
+SEB180630-1	JWL0012B	Mert_ovum	whole	100.0	4.00
+SVA180611-2	JWL0013	Bero_cucu	whole	1.0	-1.11
+SVA180618-1	JWL0014	Bero_cucu	whole	4.5	1.11
+SVA180614-1	JWL0015	Bero_cucu	whole	6.0	0.56
+SEB180630-3	JWL0016	Bero_cucu	whole	100.0	4.00
+GRL180623-4	JWL0017	Mert_ovum	whole	6.0	-3.33
+SEB180630-4	JWL0018	Bero_cucu	whole	100.0	4.00
+SEB180701-3	JWL0019	Bero_cucu	whole	100.0	4.00
+SEB180701-4	JWL0020	Bero_cucu	whole	100.0	4.00
+V4034-D1	JWL0021	Boli_infu	whole	376.0	6.97
+V4034-D1	JWL0022	Boli_infu	whole	376.0	6.97
+V4139-D5	JWL0023	Boli_infu	whole	1000.0	3.89
+V4139-D5	JWL0024	Boli_infu	whole	1000.0	3.89
+V4139-D7	JWL0025	Boli_infu	whole	1000.0	5.00
+V4139-D7	JWL0026	Boli_infu	whole	1000.0	5.00
+ICL180708-4	JWL0027	Boli_infu	whole	3.0	5.00
+SVA180614-1	JWL0028	Boli_infu	whole	6.0	0.56
+SVA180614-1	JWL0029	Boli_infu	whole	6.0	0.56
+ICL180627-1	JWL0030	Boli_infu	whole	3.0	5.00
+GRL180623-5	JWL0031	Mert_ovum	whole	6.0	-3.33
+GRL180623-5	JWL0032	Mert_ovum	whole	6.0	-3.33
+SEB180630-2	JWL0033	Mert_ovum	whole	100.0	4.00
+GRL180623-3	JWL0034	Boli_infu	whole	6.0	-3.33
+GRL180623-3	JWL0035	Boli_infu	whole	6.0	-3.33
+ICL180708-2	JWL0036	Bero_cucu	whole	3.0	3.33
+ICL180627-5	JWL0037	Boli_infu	whole	3.0	5.00
+ICL180708-4	JWL0038	Boli_infu	whole	3.0	5.00
+ICL180708-2	JWL0039	Boli_infu	whole	3.0	3.33
+KM18T2-3	JWL0040	Bath_fost	whole	2500.0	3.00
+KM18T2-4	JWL0041	Bath_fost	whole	2500.0	3.00
+KM18BW2-18	JWL0042	Boli_vitr	whole	10.0	27.20
+KM18BW2-18	JWL0042B	Boli_vitr	whole	10.0	27.20
+KM18BW2-31	JWL0043	Boli_vitr	whole	10.0	27.20
+KM18BW4-7	JWL0044	Boli_vitr	whole	10.0	27.20
+KMT18T4-11/12	JWL0045	Bero_fors	whole	2500.0	4.00
+D860-BW	JWL0046	Bero_fors	whole	10.0	14.06
+20170806-BW	JWL0047	Bero_cucu	whole	10.0	14.00
+M119-MS3	JWL0048	Bero_fivs	whole	620.0	7.00
+D860-BW	JWL0049	Bero_fors	whole	10.0	14.06
+D329-D1	JWL0050	Bath_chun	whole	2179.9	1.88
+KM18T6-6	JWL0051	Bero_fors	whole	3000.0	1.50
+KM18-BW6-38	JWL0052	Bero_ovat	whole	10.0	27.80
+KM18-BW10-8	JWL0053	Bero_ovat	whole	10.0	27.20
+V4164-D1	JWL0054	Boli_infu	whole	993.0	4.00
+V3949-D5	JWL0055	Boli_infu	whole	883.3	4.32
+D959-BW11	JWL0056	Boli_infu	whole	10.0	14.06
+D614-D11	JWL0057	Boli_infu	whole	1456.6	3.01
+V3710-D1	JWL0058	Boli_infu	whole	96.60	8.80
+V4034-D4	JWL0059	Boli_infu	whole	133.00	8.42
+V3903-D7	JWL0060	Bath_fost	whole	999.26	3.89
+V3709-SS4	JWL0061	Lamp_crue	whole	546.67	5.89
+V3949-D4	JWL0062	Lamp_crue	whole	708	5.00
+V468-D9	JWL0063	Lamp_crue	whole	811.35	4.17
+V3903-D8	JWL0064	Lamp_crue	whole	473.76	6.5
+D1138-D10	JWL0065	Bath_fost	whole	3192.18	1.61
+V4139-SS3	JWL0066	Bath_fost	whole	682.54	5.14
+D919-D5	JWL0067	Bath_fost	whole	2777.36	1.66
+M123-MS7	JWL0068	Bath_fost	whole	704	5.2
+V3930-SS7	JWL0069	Lamp_crue	whole	517.65	5.64
+D960-SS7-10	JWL0070	Tjal_pink	whole	3966.26	1.55
+20170608-BW	JWL0071	Bero_cucu	whole	10	12.5
+M126-MS1	JWL0072	Bath_fost	whole	531	6.13
+D960-SS10-1	JWL0073	Tjal_pink	whole	3964.06	1.50
+V3756-D3	JWL0074	Bath_fost	whole	616.72	5.72
+V4139-D3	JWL0075	Cydi_redx	whole	980.03	3.94
+M121-MS1	JWL0076	Eurh_vexi	whole	603	5.8
+M123-MS6	JWL0077	Bath_fost	whole	707	5.2
+MBA Aurelia 1/3 20181208	JWL0078	Aure_labi	whole	1	16
+MBA Aurelia 3/3 20181208	JWL0079	Aure_labi	whole	1	16
+26MAR19-BW2	JWL0080	Bero_fors	whole	10	13.38
+D1138.2-BW14	JWL0081	Bero_fors	whole	10	13.38
+D1137-BW1	JWL0082	Bero_cucu	whole	10	13.02
+MBA mysids	JWL0083	Holm_cost	whole	1	16
+MBA mysids	JWL0084	Holm_cost	whole	1	16
+MBA 20190425	JWL0085	Leuc_pulc	whole	1	16
+MBA 20190425-1	JWL0086	Leuc_pulc	whole	1.00	16.00
+MBA 20190425-3	JWL0087	Leuc_pulc	whole	1.00	16.00
+KMBW2-19	JWL0088	Boli_vitr	whole	10	28
+KMBW4-23	JWL0089	Boli_vitr	whole	10	28
+D960-BW	JWL0090	Bero_cucu	whole	10	14.3
+D499-D8	JWL0091	Cydi_redx	whole	1432.22	2.94
+V4163-SS10	JWL0092	Cydi_redx	whole	454.34	6.57
+MBA 20190425-7	JWL0093	Leuc_pulc	whole	1	16
+MBA 20190425-6	JWL0094	Leuc_pulc	whole	1.00	16.00
+MBA 20190425-5	JWL0095	Leuc_pulc	whole	1.00	16.00
+D1167-D3	JWL0096	Bent_cten	whole	3979.21	1.49
+KMBW10-2	JWL0097	Boli_vitr	whole	10	28
+D1165-D10	JWL0098	Tjal_whit	whole	3975.19	1.49
+D1021 BT Tjal 4	JWL0099	Tjal_pink	whole	3974	1.52
+D1021 BT Tjal 7	JWL0100	Tjal_pink	whole	3974	1.52
+V4233-SS7	JWL0101	Bero_cucu	whole	655.25	5.11
+ANT2018224	JWL0102	Cali_anta	whole	1	-1.5
+D329-D1	JWL0103	Bath_chun	whole	2179.95	1.88
+MBA #5	JWL0104	Aure_labi	whole	1	16
+MBA  20181129 #3	JWL0105	Aure_labi	whole	1	16
+V4233-SS6	JWL0106	Horm_cali	whole	232.07	8.75
+D960	JWL0107	Tjal_pink	whole	3964.06	1.5
+5/30/2007 red light	JWL0108	Bero_ovat	whole	10	26
+30 may 07 blue light	JWL0109	Bero_ovat	whole	10	26
+D1138.2-BW	JWL0110	Pleu_bach	whole	10	13.22
+D1137-T	JWL0111	Pleu_bach	whole	20	12.1
+D1138.2-BW	JWL0112	Pleu_bach	whole	10	13.22
+D1138.2-BW	JWL0113	Pleu_bach	whole	10	13.22
+D1137-T	JWL0114	Pleu_bach	whole	20	12.1
+D1138-BW	JWL0115	Pleu_bach	whole	10	13.22
+D1138.2 pool 4	JWL0116	Pleu_bach	tentacle	10	13.22
+D1138.2 pool 7	JWL0117	Pleu_bach	tentacle	10	13.22
+D1138.2 pool 3	JWL0118	Pleu_bach	tentacle	10	13.22
+D1138.2 pool 6	JWL0119	Pleu_bach	tentacle	10	13.22
+D1138.2 pool 7	JWL0120	Pleu_bach	body	10	13.22
+D1138.2 pool 5	JWL0121	Pleu_bach	body	10	13.22
+D1138.2 pool 3	JWL0122	Pleu_bach	body	10	13.22
+D1138.2 pool 4	JWL0123	Pleu_bach	body	10	13.22
+D1168-D9	JWL0124	Verm_loba	whole	434.25	6.64
+D1164-MS4	JWL0125	Lamp_deep	whole	2328.51	1.84
+D1169-D7	JWL0126	Bath_fost	whole	1651.59	2.48
+D1169-D6	JWL0127	Eupl_dunl	whole	1651.77	2.5
+D1167-D2	JWL0128	Bath_fost	whole	2550.44	1.76
+D1169-D1	JWL0129	Bath_fost	whole	1684.49	2.45
+D1167-SS8	JWL0130	Bath_fost	whole	2401.16	1.84
+D1168-D5	JWL0131	Lamp_crue	whole	823.56	4.75
+D1169-D5	JWL0132	Eupl_dunl	whole	1648.11	2.55
+D1169-D10	JWL0133	Cten_clea	whole	376.03	7.46
+D1163-D5	JWL0134	Lamp_crue	whole	871.12	4.39
+D1165-D4	JWL0135		whole	3935.75	1.52
+D1168-D3	JWL0136	Aula_acum	whole	810.02	4.75
+D1167-SS5	JWL0137	Lamp_deep	whole	3137.8	1.61
+D1167-SS1-1	JWL0138		whole	3973.21	1.5
+D1167-SS1A	JWL0139		whole	3973.21	1.5
+D1164-D4	JWL0140	Bath_fost	whole	2850.43	1.66
+D1168-D6	JWL0141	Bath_fost	whole	930.94	4.29
+D1164-D10	JWL0142	Lamp_crue	whole	2346.96	1.83
+D1164-MS5	JWL0143	Lamp_deep	whole	1961.45	2.07
+D1167-SS1-2	JWL0144	Tjal_pink	whole	3973.21	1.5
+D1167-SS6	JWL0145	Lamp_deep	whole	3143.29	1.61
+D1167-D10	JWL0146	Bath_fost	whole	3349.03	1.578
+D1164-D2	JWL0147	Bath_fost	whole	2326.96	1.84
+D1168-D12	JWL0148	Lamp_crue	whole	736.03	4.95
+D1169-D9	JWL0149	Cten_clea	whole	358.59	7.53
+KMBW6-4	JWL0150	Eurh_vexi	whole	10	27
+D1138.3 pool 1	JWL0151	Pleu_bach	tentacle	10.0	12.00
+D1138.3 pool 2	JWL0152	Pleu_bach	tentacle	10.0	12.00
+SEB180701-5	JWL0153	Boli_infu	whole	100.0	4.00
+SEB180701-7	JWL0154	Bero_cucu	whole	100	4
+SEB180701-9	JWL0155	Boli_infu	whole	100	4

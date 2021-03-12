@@ -1,0 +1,90 @@
+msdata:
+  id: ROI_24
+  version: 1.1.0
+  cvList: 
+    cv:
+      id: MS
+      fullName: Proteomics Standards Initiative Mass Spectrometry Ontology
+      version: 4.1.30
+      URI: https://raw.githubusercontent.com/HUPO-PSI/psi-ms-CV/master/psi-ms.obo
+    cv:
+      id: UO
+      fullName: Unit Ontology
+      version: 09:04:2014
+      URI: https://raw.githubusercontent.com/bio-ontology-research-group/unit-ontology/master/unit.obo
+  fileDescription:
+    fileContent:
+      cvParam: MS1 spectrum
+    sourceFileList: 
+      sourceFile:
+        id: ROI_24.mzxml
+        name: ROI_24.mzxml
+        location: file:///Z:\data
+        cvParam: SHA-1, 7724c76293853cad96d1c9bf76c7464fd6c0006c
+  softwareList: 
+    software:
+      id: mzR
+      version: 2.20.0
+      cvParam: mzR
+    software:
+      id: pwiz_3.0.20066
+      version: 3.0.20066
+      cvParam: ProteoWizard software
+  instrumentConfigurationList: 
+    instrumentConfiguration:
+      id: IC
+      cvParam: instrument model
+  dataProcessingList: 
+    dataProcessing:
+      id: mzR_processing
+      processingMethod:
+        order: 1
+        softwareRef: mzR
+        cvParam: Conversion to mzML
+  run:
+    id: ROI_24
+    defaultInstrumentConfigurationRef: IC
+    spectrumList (1 spectra):
+      dataProcessing:
+        id: pwiz_Reader_conversion
+        processingMethod:
+          order: 0
+          softwareRef: pwiz_3.0.20066
+          cvParam: Conversion to mzML
+      spectrum:
+        index: 0
+        id: scan=1
+        defaultArrayLength: 294
+        cvParam: ms level, 1
+        cvParam: MS1 spectrum
+        cvParam: lowest observed m/z, -1.0, m/z
+        cvParam: highest observed m/z, -1.0, m/z
+        cvParam: base peak m/z, -1.0, m/z
+        cvParam: base peak intensity, -1.0, number of detector counts
+        cvParam: total ion current, 1.0e07
+        cvParam: no combination
+        scanList:
+          scan:
+            instrumentConfiguration:
+              id: IC
+              cvParam: instrument model
+            cvParam: scan start time, 1045.352, second
+            cvParam: filter string
+            cvParam: ion mobility drift time, -1.0, millisecond
+            scanWindowList: 
+              scanWindow:
+                cvParam: scan window lower limit, 0.0, m/z
+                cvParam: scan window upper limit, 0.0, m/z
+        binaryDataArray:
+          cvParam: m/z array, m/z
+          binary: [294] 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 109 110 111 112 113 114 115 116 117 118 119 120 121 123 124 125 126 127 128 129 130 132 133 135 136 137 138 139 140 141 142 143 144 145 147 149 151 152 153 154 155 157 158 159 161 162 163 165 166 167 168 169 171 172 174 176 177 178 179 180 181 182 183 185 186 187 188 191 192 193 194 195 196 197 199 200 201 202 203 204 205 206 207 208 209 210 211 213 214 215 217 218 219 221 222 223 224 225 226 227 228 229 231 232 233 234 236 237 238 239 241 242 243 244 245 246 247 248 251 252 253 254 255 256 257 259 260 261 263 264 265 266 267 269 270 271 272 275 277 278 279 280 282 283 284 285 286 288 289 290 291 292 293 295 297 298 299 302 303 306 307 308 309 310 311 313 314 315 316 317 319 321 325 326 328 330 332 334 336 338 339 340 341 342 343 344 345 346 350 355 356 357 358 362 368 369 370 371 372 373 374 375 378 380 381 382 383 387 389 390 396 397 399 401 403 407 411 413 414 415 416 419 420 421 428 429 438 447 456 467 468 508 528 529 530 546 547 
+        binaryDataArray:
+          cvParam: intensity array, number of detector counts
+          binary: [294] 547.5 230.5 5163 9475.5 139759.5 28073.5 133945 8321 35281 2327 1514 162 233 16 1560 851 21609.5 10739 101969 19483.5 60330.5 4085 14169 652260.5 199548 8242 1668 389 6252 1989.5 22027 10483.5 78188.5 28434.5 36179 3726.5 518725 43032.5 3456 427 1435.5 302.5 6167.5 1912.5 23769 10758.5 74688 29235 8719 2283 53395.5 6929 691 675.5 710.5 377 6894.5 14678.5 5054 34454.5 8993 5695 881 19534.5 12890 1240 205 719.5 403 10109 7790 3292 17697.5 3110 2868.5 1016.5 72872 22056 1063 574.5 9117.5 3553 2666.5 1737 10967 1830 1948 678 223108 22682 1124.5 360 6335.5 1331 1745 5930 1368.5 892 27214.5 3439.5 277.5 459 145 3216 299.5 969 3538.5 691.5 504.5 17890 6391 266.5 26.5 2652.5 258.5 763.5 641.5 2089.5 706 418 61865.5 12082.5 984 213.5 1497.5 244 849.5 716.5 2274.5 692.5 280 81479.5 12258.5 1212 249.5 752.5 370.5 1391 256 253 289.5 1819 844 70 17055 3525.5 693 96 583.5 755 225.5 857.5 1576 785 112 105 16464.5 5714.5 156.5 191.5 11.5 487 118 176.5 791.5 585 320.5 72136 12832 1599 293 191 134.5 568.5 67.5 495.5 278.5 66.5 328 46114.5 8569.5 1164 324 318 354.5 81 1098.5 683.5 1143 580 10156.5 2115.5 527.5 129.5 338.5 19 41.5 579.5 548 39 18922 4420.5 433.5 82.5 136 439 691.5 800 253.5 185 65.5 114222 23208 2430 160.5 46 226.5 1181 817 31526.5 6964.5 22061 4072 1724 488 263 221.5 47.5 296 836.5 262.5 138.5 110.5 1.5 51.5 47 144 711.5 171990 41215 5500 528.5 84.5 44.5 129.5 150.5 78 25.5 54 201.5 200 592.5 52.5 64.5 6.5 50 54 27 3 72.5 190.5 88 40 3 216.5 238 7 68.5 49.5 1031 141 40 162 235.5 96 170 35 2 393.5 85 234 15 227 61 32 27 153 122 3 156.5 43.5 43 425 53 
+    chromatogramList (0 chromatograms):
+      dataProcessing:
+        id: pwiz_Reader_conversion
+        processingMethod:
+          order: 0
+          softwareRef: pwiz_3.0.20066
+          cvParam: Conversion to mzML

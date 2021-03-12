@@ -1,0 +1,90 @@
+msdata:
+  id: ROI_3
+  version: 1.1.0
+  cvList: 
+    cv:
+      id: MS
+      fullName: Proteomics Standards Initiative Mass Spectrometry Ontology
+      version: 4.1.30
+      URI: https://raw.githubusercontent.com/HUPO-PSI/psi-ms-CV/master/psi-ms.obo
+    cv:
+      id: UO
+      fullName: Unit Ontology
+      version: 09:04:2014
+      URI: https://raw.githubusercontent.com/bio-ontology-research-group/unit-ontology/master/unit.obo
+  fileDescription:
+    fileContent:
+      cvParam: MS1 spectrum
+    sourceFileList: 
+      sourceFile:
+        id: ROI_3.mzxml
+        name: ROI_3.mzxml
+        location: file:///Z:\data
+        cvParam: SHA-1, 15b36dc892b706b15aa76d351dfc59de395d1ed0
+  softwareList: 
+    software:
+      id: mzR
+      version: 2.20.0
+      cvParam: mzR
+    software:
+      id: pwiz_3.0.20066
+      version: 3.0.20066
+      cvParam: ProteoWizard software
+  instrumentConfigurationList: 
+    instrumentConfiguration:
+      id: IC
+      cvParam: instrument model
+  dataProcessingList: 
+    dataProcessing:
+      id: mzR_processing
+      processingMethod:
+        order: 1
+        softwareRef: mzR
+        cvParam: Conversion to mzML
+  run:
+    id: ROI_3
+    defaultInstrumentConfigurationRef: IC
+    spectrumList (1 spectra):
+      dataProcessing:
+        id: pwiz_Reader_conversion
+        processingMethod:
+          order: 0
+          softwareRef: pwiz_3.0.20066
+          cvParam: Conversion to mzML
+      spectrum:
+        index: 0
+        id: scan=1
+        defaultArrayLength: 162
+        cvParam: ms level, 1
+        cvParam: MS1 spectrum
+        cvParam: lowest observed m/z, -1.0, m/z
+        cvParam: highest observed m/z, -1.0, m/z
+        cvParam: base peak m/z, -1.0, m/z
+        cvParam: base peak intensity, -1.0, number of detector counts
+        cvParam: total ion current, 1.0e07
+        cvParam: no combination
+        scanList:
+          scan:
+            instrumentConfiguration:
+              id: IC
+              cvParam: instrument model
+            cvParam: scan start time, 497.753, second
+            cvParam: filter string
+            cvParam: ion mobility drift time, -1.0, millisecond
+            scanWindowList: 
+              scanWindow:
+                cvParam: scan window lower limit, 0.0, m/z
+                cvParam: scan window upper limit, 0.0, m/z
+        binaryDataArray:
+          cvParam: m/z array, m/z
+          binary: [162] 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 135 136 137 138 139 140 141 142 143 144 145 146 148 149 150 151 152 153 154 155 157 158 159 160 163 166 167 168 169 170 171 172 173 176 177 178 183 184 185 186 187 191 193 197 198 199 200 201 202 203 204 214 217 219 220 230 233 239 240 242 249 250 259 260 261 271 272 273 274 276 325 326 327 366 399 419 440 441 452 546 547 548 
+        binaryDataArray:
+          cvParam: intensity array, number of detector counts
+          binary: [162] 1749.5 1230 16719 14585 232275.5 42841.5 108348 6991.5 114806 3741.5 2812 333 552 30.5 3234.5 1647 24795.5 13123.5 118537.5 21467 40273 3970 28741.5 1451520 170389 11029 3122 774 8387 2401 20544.5 11200 74323.5 47277 32976.5 4016.5 858304 79865 6404 474 1418.5 148 5078 1583 26582 7246.5 55582 41850.5 6021 2948 128662 12274 1587.5 294 120 3320 528.5 9086.5 1479 14348 6289.5 1833 856 59192 10765 1071 88 245 160 3089 198 654 6595.5 6912 13565 1599.5 451.5 95755 10269 978.5 1782 154 361 37 3924 1020 32 398 237564 22676 2130.5 283 219 4280 2265.5 1591 87 759 232 153.5 204800 22680.5 2080 181 77 291 2391 1756.5 160871 19187 57472 7842 775 154 271.5 172.5 33 1 1525 279 17 83.5 65.5 26 222 990 56760 9411 888 97 67 169 90.5 59 154 16 207 53 175 40 72 188 154 210 3.5 256 66 141.5 10 152 281 121.5 75 465 18.5 37 51 8.5 156 353 469 205 
+    chromatogramList (0 chromatograms):
+      dataProcessing:
+        id: pwiz_Reader_conversion
+        processingMethod:
+          order: 0
+          softwareRef: pwiz_3.0.20066
+          cvParam: Conversion to mzML
